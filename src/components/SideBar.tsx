@@ -1,5 +1,5 @@
 import "../styles/sidebar.scss";
-import { GenreResponseProps, MovieProps } from "../App";
+import { GenreResponseProps } from "../App";
 import { Button } from "./Button";
 
 interface SideBarProps {
